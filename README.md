@@ -1,5 +1,5 @@
 # Drone Vision
-Object detection with a Tello drone using opencv.
+ A project for object detection with the Tello drone
 
 
 The drone used for this project was DJI Tello.
@@ -43,4 +43,7 @@ double speed ................. T (hold simultaneously with another key)
 
 
 ## Example
-![alt text](https://github.com/gnzasao/drone_project/blob/[branch]/image.jpg?raw=true)
+![alt text](jaja.jpg?raw=true)
+
+
+Image source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6xoIMHj1NwO0y5CNefCUsr1Q3t3637b7yWg&usqp=CAU
