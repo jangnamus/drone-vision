@@ -88,7 +88,7 @@ def control(tookoff, landed, started_filming):
         img = me.get_frame_read().frame
         cas = time.time()
         cas = str(round(cas))
-        full_path_photos_folder = "C:\\Users\\jangn\\Documents\\Tello\\drone_project\\photos\\"
+        full_path_photos_folder = "C:\\Users\\john\\Documents\\tello\\object_detection\\photos\\"
         file_name = full_path_photos_folder + cas + ".jpg"
         cv2.imwrite(file_name, img)
         started_filming.value = True
@@ -111,7 +111,7 @@ def process_photos(tookoff, landed, started_filming):
             return
         cas = time.time() - delay
         cas = str(round(cas))
-        full_path_photos_folder = "C:\\Users\\jangn\\Documents\\Tello\\drone_project\\photos\\"
+        full_path_photos_folder = "C:\\Users\\john\\Documents\\tello\\object_detection\\photos\\"
         file_name = full_path_photos_folder + cas
         filename_ext = file_name + ".jpg"
         processed_image, detected_objects = yolo.yolo(filename_ext)
