@@ -1,5 +1,5 @@
 # Drone Vision
- A project for object detection with the Tello drone
+ A project for object detection with the Tello drone.
 
 
 The drone used for this project was DJI Tello.
