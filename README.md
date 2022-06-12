@@ -18,7 +18,8 @@ $ wget https://pjreddie.com/media/files/yolov3.weights
 <br/>
 Connect the drone with the computer via wifi and run main.py.
 
-
+<br/>
+<br/>
 
 Keyboard commands for drone control:
 
