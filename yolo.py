@@ -22,14 +22,13 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 """
 
-# the code was copied from https://github.com/arunponnusamy/object-detection-opencv
-# but modified and adapted
+# the code was modified from https://github.com/arunponnusamy/object-detection-opencv
 
 # yolo function classifies objects on the image
 # the model is trained on the COCO dataset photos (common objects)
 
 # usage example:
-# yolo("C:\\Users\\john\\Documents\\tello\\object_detection\\photos\\landscape.jpg")
+# yolo("C:\\Users\\jan\\Documents\\tello\\object_detection\\photos\\landscape.jpg")
 
 
 
