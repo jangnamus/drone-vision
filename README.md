@@ -44,10 +44,7 @@ double speed ................. T (hold simultaneously with another key)
 
 
 ## Example
-![alt text](example2.jpg?raw=true)
+<p>
+<img src="example1.jpg" alt="example" width="500"/>
+</p>
 
-<br/>
-<br/>
-
-## Note
-I did not create yolo.py entirely on my own. I used the code from someone else, modified it for my purpose and gave them credit in the beginning of the file.
